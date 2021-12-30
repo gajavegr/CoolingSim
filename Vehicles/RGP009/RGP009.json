@@ -1,0 +1,22 @@
+{
+    "name": "RGP009",
+    "final_drive": 2.81,
+    "gears": [
+        2.416,
+        1.92,
+        1.562,
+        1.277,
+        1.05
+    ],
+    "power_data": "Vehicles\\RGP009\\Power vs RPM kW.csv",
+    "torque_data": "Vehicles\\RGP009\\Torque vs RPM Nm.csv",
+    "mux": 1.8,
+    "muy": 1.8,
+    "Cd": 1.15,
+    "Cl": 1.75,
+    "mass": 258,
+    "frontal_area": 1.1,
+    "tire_diameter": 0.4,
+    "cooling_sys": "Vehicles\\RGP009\\HeatRejection vs Freestream.csv"
+
+}
