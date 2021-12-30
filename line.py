@@ -6,3 +6,6 @@ class Line:
         self.x2 = x2
         self.y2 = y2
         self.len = self.getLen()
+
+    def getLen(self):
+        return ((abs(self.x1-self.x2))**2+(abs(self.y1-self.y2))**2)**0.5
